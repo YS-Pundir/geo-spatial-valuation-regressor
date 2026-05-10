@@ -201,10 +201,3 @@ during **Module 3: GenAI & Agents**.
 
 ---
 
-# 🌐 Connect With Me
-
-- [LinkedIn](#)
-- [GitHub](#)
-- [Hugging Face](https://huggingface.co/yuvrajpundir)
-
----
